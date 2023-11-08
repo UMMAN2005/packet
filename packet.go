@@ -1,11 +1,15 @@
 package packet
 
-func Hello () string {
+func Hello() string {
 	return "Hello"
 }
-func Hi () string {
+func Hi() string {
 	return "Hi"
 }
-func How_are_you () string {
+func HowAreYou() string {
 	return "Good"
+}
+
+func WhatIsYourVersion() string {
+	return "I do not know"
 }
