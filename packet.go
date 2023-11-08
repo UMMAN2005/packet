@@ -6,3 +6,6 @@ func Hello () string {
 func Hi () string {
 	return "Hi"
 }
+func How_are_you () string {
+	return "Good"
+}
